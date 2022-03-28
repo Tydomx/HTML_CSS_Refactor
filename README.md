@@ -2,7 +2,8 @@
 Refactored HTML and CSS to make Horiseon website more accessible and compact
 
 
-
+## Refactoring for Accessibility 
+Application is a website for Horiseon which increases optimization for the user with management and marketing. 
 
 
 ![image](https://user-images.githubusercontent.com/99767019/160307244-460e6ad9-c3ba-4448-9d06-dea539e86971.png)
